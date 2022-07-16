@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lizawt
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning web scraping with python & R
-- 💞️ I’m looking to collaborate on all aspects of data analysis from cleaning to visualisation.
+- 💞️ I’m looking to collaborate on all aspects of data analysis from wrangling to visualisation.
 - 📫 How to reach me lizathuku@gmail.com
 
 <!---

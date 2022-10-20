@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizawt
 - 👀 I’m interested in software engeneering 
-- 🌱 I’m currently learning Python, Javascript, Java & little bit of C#
+- 🌱 I’m currently learning Python & Javascript
 - 💞️ I’m looking to collaborate on all aspects of back end.
 - 📫 How to reach me lizathuku@gmail.com
 
